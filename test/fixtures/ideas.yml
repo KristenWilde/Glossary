@@ -1,9 +1,0 @@
-# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
-
-one:
-  name: 'Study really hard today'
-  description: 'Try to get that apprenticeship'
-
-two:
-  name: 'Study Rails testing'
-  description: 'Get familiar with fixtures and tests'
