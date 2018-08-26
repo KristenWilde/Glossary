@@ -1,11 +1,11 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  term: MyString
-  definition: MyText
-  link: MyString
+  term: Migration
+  definition: Instructions for changing the database schema
+  link: https://guides.rubyonrails.org/v5.0/active_record_migrations.html
 
 two:
-  term: MyString
-  definition: MyText
-  link: MyString
+  term: Model
+  definition: Code that interacts with the data in a database
+  link: https://www.codecademy.com/articles/mvc
